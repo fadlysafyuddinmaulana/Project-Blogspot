@@ -2,7 +2,7 @@
 Tama
 ###################
 
-.. image:: Image-Upload/1160925.jpg
+.. image:: assets/Image-Upload/1160925.jpg
    :width: 600
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
