@@ -2,9 +2,8 @@
 Tama
 ###################
 
-image:: Image-Upload/1160925.jpg
-  :width: 400
-  :alt: Alternative text
+.. image:: images/get_started_sphinx.png
+   :width: 600
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
