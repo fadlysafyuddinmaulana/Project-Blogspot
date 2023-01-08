@@ -1,6 +1,8 @@
 ###################
-What is CodeIgniter
+Tama
 ###################
+
+image:: https://images4.alphacoders.com/116/1160925.jpg
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
