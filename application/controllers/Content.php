@@ -19,7 +19,7 @@ class Content extends CI_Controller
 
         $this->load->view('Page-Styles/Header-Content', $data);
         $this->load->view('Page-Styles/Navbar-Content', $data);
-        $this->load->view('Layout-Website/Content/index-copy', $data);
+        $this->load->view('Layout-Website/Content/Content-Web', $data);
         $this->load->view('Page-Styles/Footer-Content', $data);
     }
 }
